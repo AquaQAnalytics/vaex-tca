@@ -2,3 +2,4 @@ pandas==1.1.5
 numpy==1.19.5
 vaex==4.9.1
 fastapi==0.75.2
+uvicorn==0.16.0
