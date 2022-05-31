@@ -16,7 +16,7 @@ pip install fastapi "uvicorn[standard]"
 
 To run the application, use one of the uvicorn commands below:
 
-uvicorn main:app --reload
+uvicorn main:app --reload  
 uvicorn main:app --host "*" --port 1234
 
 The reload flag will automatically refresh the webpage when there are any changes to the code - use for testing only. Data used for the project is NYSE TAQ data. Sample data can be accessed here:
