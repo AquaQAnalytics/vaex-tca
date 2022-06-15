@@ -9,10 +9,7 @@ https://fastapi.tiangolo.com/
 
 Use pip to install the required libraries for this project:
 
-pip install numpy  
-pip install pandas  
-pip install vaex  
-pip install fastapi "uvicorn[standard]"
+pip install -r requirements.txt
 
 To run the application, use one of the uvicorn commands below:
 
